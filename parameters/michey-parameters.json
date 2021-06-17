@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "MickeyKey"
+  }, 
+  {
+    "ParameterKey": "EcsInstanceType",
+    "ParameterValue": "t1.micro"
+  },
+  {
+    "ParameterKey": "EcsInstanceName",
+    "ParameterValue": ""
+  }, 
+  {
+    "ParameterKey": "EcsInstanceImage",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "EcsInstanceBucketName",
+    "ParameterValue": ""
+  }
+]

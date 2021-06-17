@@ -1,0 +1,12 @@
+---
+
+AWSTemplateFormatVersion: '2010-09-09'
+
+Description:
+  tp2-template-mickey
+
+Resources:
+  MyS3Bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'tp2-cloudformation-mickey'
